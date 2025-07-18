@@ -3,7 +3,7 @@
     This PowerShell script checks how long an account stays locked after failed logins and, if it’s shorter, updates the lockout duration to 15 minutes. 
 
 .NOTES
-    Author          : Makr Mooli
+    Author          : Mark Mooli
     LinkedIn        : linkedin.com/in/markmooli/
     GitHub          : github.com/msmooli
     Date Created    : 2025-18-07
