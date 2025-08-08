@@ -38,5 +38,5 @@ Get-LocalUser |
     Write-Host "• Password expiration enabled for user: $($_.Name)"
   }
 
-Write-Host "✅ All enabled local accounts set to expire passwords"
+Write-Host "All enabled local accounts set to expire passwords"
  
