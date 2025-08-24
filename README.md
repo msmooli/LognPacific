@@ -1,1 +1,1 @@
-# LognPacific# STIG Vulnerability Remediations
+# LognPacific# Internship Tasks
