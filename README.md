@@ -1,1 +1,1 @@
-# DISA STIGS#  
+# DISA STIGS
